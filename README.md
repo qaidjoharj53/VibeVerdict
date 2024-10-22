@@ -54,4 +54,4 @@ Configure your app by editing the `config.py` file.
 ## Contact
 For any inquiries or feedback, please feel free to contact us:
 
-- Email: rohitagr2610@gmail.com
+- Email: qaidjoharytqt@gmail.com
